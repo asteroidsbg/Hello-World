@@ -1,11 +1,29 @@
-# Xojo (formerly REALbasic and Real Studio)
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
 
-Builds*
-*.debug
-*.debug.app
-Debug*.exe
-Debug*/Debug*.exe
-Debug*/Debug*\ Libs
-*.rbuistate
-*.xojo_uistate
-*.obsolete
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
